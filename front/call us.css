@@ -1,0 +1,45 @@
+body{
+	text-align: right;
+}
+a{
+	text-decoration:none;
+}
+*{
+	box-sizing:border-box;
+}
+input{
+	height:20px;
+	direction: rtl;
+}
+textarea{
+
+	height:6em;
+	direction: rtl;
+}
+input Email{
+	direction: rtl;
+}
+button{
+	min-width:64px;
+	height:40px;
+	margin:8px 0px 0px 8px;
+	padding:0 24px;
+	background-color:#6750A4;
+	color:#1C1B1F;
+	display: inline-block;
+}
+.btn-body{
+	border-radius: 3em;
+	border: 3px solid;
+	outline:2px solid #79747E;
+	margin:0 8px 0 5px;
+	margin-top:10PX ;
+}
+
+.btn{
+	margin-top: 60px;	
+}
+.btn-body:hover{
+	background-color:rgba(143, 143, 143, 0.1);
+}
+.btn.primary

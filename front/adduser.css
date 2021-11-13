@@ -1,0 +1,55 @@
+body{
+	text-align:center;
+	direction:rtl;
+	background-color:yellow;
+}
+.add-name{
+	margin:30px;
+	padding:10px;
+	width:200px;
+}
+.select-grad{
+	text-align:center;
+	margin:10px 5px 10px 5px;
+	padding:10px;
+	width:100px;
+	outline:2px solid #79747E;
+	border-radius:3em;
+	color:#1C1B1F;
+	background-color:#6750A4;
+}
+a{
+	text-decoration:none;
+}
+.add-button{
+	text-align:center;
+	margin:10px 5px 10px 5px;
+	padding:10px;
+	border-radius:3em;
+	color:#1C1B1F;
+	width:120px;
+	outline:2px solid #79747E;
+	background-color:#6750A4;
+}
+.add-button1{
+ width:120px;
+ padding:20px;
+}
+.add-button:hover{
+	background-color:rgba(143, 143, 143, 0.1);
+}
+add-button:focus{
+	color:rgba(102, 31, 143, 0.2);
+}
+.add-button:disabled{
+	cursor:default;
+	background-color:#8f8f8f;
+}
+.select-grad{
+	color:#1C1B1F;
+	outline:2px solid #79747E;
+	background-color:#6750A4;
+}
+.select-grad:hover{
+	background-color:rgba(143, 143, 143, 0.1);
+}
